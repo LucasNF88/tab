@@ -18,6 +18,9 @@ input{
     padding: 5px;
     margin-left: 20px;
 }
+.btn:hover{
+    cursor: pointer;
+}
 h2{
     margin-left: 20%;
 }
